@@ -1,0 +1,16 @@
+{
+  "name": "ywca-workspace",
+  "version": "0.0.1",
+  "description": "YWCA Workspace for dezarae house",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:avallaka/ywebca.git"
+  },
+  "author": {
+    "name": "dezarae house",
+    "email": "dezaraehouse10@gmail.com",
+    "url": "https://github.com/avallaka"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}
